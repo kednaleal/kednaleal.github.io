@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(60, 64, 65, 0.219);
+    border: 5px solid purple;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+img{
+    width:15%;
+    border-radius: 10px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+section{
+    border : 1px solid #000;
+}
