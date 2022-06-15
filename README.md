@@ -10,7 +10,7 @@
   git status // ver as alterações
 
   git add .
-  git commit s-m "mensagem" 
+  git commit -m "mensagem" 
   # add . e commit são comandos para salvar em algum local no computador  
 >
   git push copia o comando commit mais recente
